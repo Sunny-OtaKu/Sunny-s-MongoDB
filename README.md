@@ -96,25 +96,10 @@ db.users.deleteOne({ name: "John" })
 This project is created for practicing MongoDB shell commands and understanding basic database operations.
 
 ---
-
-##  How to Use
-
-1. Install MongoDB
-2. Open MongoDB shell using:
-
-```
-mongosh
-```
-
-3. Copy and run commands from `mongo-commands.js`
-
----
-
 ##  Author
 
 Your Name
-
----
+Samartha S
 
 ##  License
 
