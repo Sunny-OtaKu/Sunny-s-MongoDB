@@ -98,7 +98,6 @@ This project is created for practicing MongoDB shell commands and understanding 
 ---
 ##  Author
 
-Your Name
 Samartha S
 
 ##  License
