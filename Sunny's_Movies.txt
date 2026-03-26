@@ -1,0 +1,11 @@
+use Sunny's_Movies
+db.createCollection("MovieList")
+db.MovieList.insertOne({MovieName:"Prestige",OrgLanguage:"Eng",Genre:"Revenge,Drama",Rating:8.5})
+db.MovieList.insertMany([{MovieName:"Dhurandar-1",OrgLanguage:"Hin",Genre:"Revenge,Spy,Patriotism",Rating:8.9},{MovieName:"John Wick",OrgLanguage:"Eng",Genre:"Action,Revenge"}])
+db.MovieList.find({MovieName:"John Wick"})
+db.MovieList.updateOne({MovieName:"John Wick"},{$set:{Rating:9.2}})
+db.MovieList.find() 
+db.MovieList.deleteMany({OrgLanguage:"Eng"})
+show collections
+db.MovieList.drop()
+show collections

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "69c4f12558d9f7ed0754e6bc"
+  },
+  "MovieName": "Prestige",
+  "OrgLanguage": "Eng",
+  "Genre": "Rivalvery,Drama,Magic",
+  "Rating": 8.5
+},
+{
+  "_id": {
+    "$oid": "69c4f13058d9f7ed0754e6bd"
+  },
+  "MovieName": "Dhurandar-1",
+  "OrgLanguage": "Hin",
+  "Genre": "Revenge,Spy,Patriotism",
+  "Rating": 8.9
+},
+{
+  "_id": {
+    "$oid": "69c4f13058d9f7ed0754e6be"
+  },
+  "MovieName": "John Wick",
+  "OrgLanguage": "Eng",
+  "Genre": "Action,Revenge",
+  "Rating": 9.2
+}]
